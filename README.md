@@ -1,5 +1,5 @@
 ## selft-resume-website
-用react开发的简单的个人简历网站。参考自[这个网站](https://www.vauxlab.com/)。
+用react开发的简单的个人简历网站。参考自[这个网站](https://www.vauxlab.com/)。参考了这份复现代码https://github.com/sessionboy/selft-resume-website
 ![site](./src/assets/images/site.png)
 
 ## 本地开发  
